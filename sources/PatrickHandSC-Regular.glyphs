@@ -1,8 +1,5 @@
 {
 .appVersion = "1209";
-DisplayStrings = (
-"/f_i.liga"
-);
 classes = (
 {
 code = "dollar percent ampersand A O a i n o sterling yen Scedilla scedilla Tcedilla tcedilla perthousand Euro";
@@ -69,7 +66,7 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2013-02-08 14:23:43 +0000";
+date = "2019-02-07 21:17:57 +0000";
 designer = "Patrick Wagesreiter";
 designerURL = "http://www.patrickwagesreiter.at";
 disablesAutomaticAlignment = 1;
@@ -51155,5 +51152,5 @@ manufacturer = "Patrick Wagesreiter";
 manufacturerURL = "http://www.patrickwagesreiter.at";
 unitsPerEm = 1000;
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
