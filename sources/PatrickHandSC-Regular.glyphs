@@ -1,5 +1,8 @@
 {
-.appVersion = "919";
+.appVersion = "1209";
+DisplayStrings = (
+"/f_i.liga"
+);
 classes = (
 {
 code = "dollar percent ampersand A O a i n o sterling yen Scedilla scedilla Tcedilla tcedilla perthousand Euro";
@@ -58,7 +61,8 @@ value = UKWN;
 },
 {
 name = fsType;
-value = 0;
+value = (
+);
 },
 {
 name = "Use Typo Metrics";
@@ -68,6 +72,7 @@ value = 1;
 date = "2013-02-08 14:23:43 +0000";
 designer = "Patrick Wagesreiter";
 designerURL = "http://www.patrickwagesreiter.at";
+disablesAutomaticAlignment = 1;
 familyName = "Patrick Hand SC";
 featurePrefixes = (
 {
@@ -38050,103 +38055,24 @@ width = 525;
 },
 {
 glyphname = f_i.liga;
-lastChange = "2016-09-23 08:41:16 +0000";
+lastChange = "2019-02-07 21:16:55 +0000";
 layers = (
 {
-layerId = UUID0;
-paths = (
+components = (
 {
-closed = 1;
-nodes = (
-"380 362 LINE",
-"377 108 LINE",
-"377 36 LINE",
-"378 24 OFFCURVE",
-"373 14 OFFCURVE",
-"364 6 CURVE SMOOTH",
-"345 -10 OFFCURVE",
-"314 -14 OFFCURVE",
-"305 19 CURVE",
-"297 170 OFFCURVE",
-"293 260 OFFCURVE",
-"293 289 CURVE SMOOTH",
-"293 342 LINE",
-"293 388 LINE",
-"264 383 OFFCURVE",
-"229 384 OFFCURVE",
-"209 385 CURVE",
-"210 358 OFFCURVE",
-"213 311 OFFCURVE",
-"218 242 CURVE SMOOTH",
-"223 174 OFFCURVE",
-"225 108 OFFCURVE",
-"225 43 CURVE SMOOTH",
-"225 16 OFFCURVE",
-"199 -1 OFFCURVE",
-"176 -1 CURVE SMOOTH",
-"158 -1 OFFCURVE",
-"149 10 OFFCURVE",
-"149 31 CURVE SMOOTH",
-"149 151 OFFCURVE",
-"136 260 OFFCURVE",
-"132 385 CURVE",
-"72 385 OFFCURVE",
-"37 391 OFFCURVE",
-"27 403 CURVE SMOOTH",
-"23 408 OFFCURVE",
-"21 414 OFFCURVE",
-"21 421 CURVE",
-"16 474 OFFCURVE",
-"109 461 OFFCURVE",
-"132 463 CURVE",
-"134 572 OFFCURVE",
-"140 639 OFFCURVE",
-"150 665 CURVE SMOOTH",
-"156 681 OFFCURVE",
-"164 693 OFFCURVE",
-"174 700 CURVE SMOOTH",
-"195 716 OFFCURVE",
-"204 715 OFFCURVE",
-"240 715 CURVE SMOOTH",
-"307 715 OFFCURVE",
-"350 702 OFFCURVE",
-"369 677 CURVE SMOOTH",
-"383 658 OFFCURVE",
-"390 634 OFFCURVE",
-"390 606 CURVE SMOOTH",
-"390 577 OFFCURVE",
-"363 548 OFFCURVE",
-"336 548 CURVE SMOOTH",
-"334 548 LINE SMOOTH",
-"297 552 OFFCURVE",
-"278 571 OFFCURVE",
-"278 605 CURVE SMOOTH",
-"278 610 OFFCURVE",
-"281 619 OFFCURVE",
-"286 631 CURVE",
-"275 637 OFFCURVE",
-"264 640 OFFCURVE",
-"251 640 CURVE SMOOTH",
-"222 640 OFFCURVE",
-"207 614 OFFCURVE",
-"206 562 CURVE",
-"205 557 OFFCURVE",
-"205 551 OFFCURVE",
-"205 545 CURVE SMOOTH",
-"207 460 LINE",
-"323 465 LINE",
-"356 465 OFFCURVE",
-"374 458 OFFCURVE",
-"378 430 CURVE",
-"379 412 OFFCURVE",
-"380 389 OFFCURVE",
-"380 362 CURVE"
-);
+name = F;
+},
+{
+name = I;
+transform = "{1, 0, 0, 1, 360, 0}";
 }
 );
-width = 400;
+layerId = UUID0;
+width = 595;
 }
 );
+leftMetricsKey = F;
+rightMetricsKey = I;
 },
 {
 glyphname = f_l.liga;
@@ -51206,7 +51132,6 @@ width = 0;
 );
 }
 );
-disablesAutomaticAlignment = 1;
 instances = (
 {
 customParameters = (
@@ -51226,7 +51151,6 @@ name = Regular;
 weightClass = Normal;
 }
 );
-keyboardIncrement = 0;
 manufacturer = "Patrick Wagesreiter";
 manufacturerURL = "http://www.patrickwagesreiter.at";
 unitsPerEm = 1000;
