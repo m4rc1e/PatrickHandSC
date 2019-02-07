@@ -1,5 +1,8 @@
 {
 .appVersion = "1209";
+DisplayStrings = (
+"/f_i.liga"
+);
 classes = (
 {
 code = "dollar percent ampersand A O a i n o sterling yen Scedilla scedilla Tcedilla tcedilla perthousand Euro";
@@ -38052,24 +38055,22 @@ width = 525;
 },
 {
 glyphname = f_i.liga;
-lastChange = "2019-02-07 21:16:55 +0000";
+lastChange = "2019-02-07 21:24:22 +0000";
 layers = (
 {
 components = (
 {
-name = F;
+name = f;
 },
 {
-name = I;
-transform = "{1, 0, 0, 1, 360, 0}";
+name = i;
+transform = "{1, 0, 0, 1, 307, 0}";
 }
 );
 layerId = UUID0;
-width = 595;
+width = 457;
 }
 );
-leftMetricsKey = F;
-rightMetricsKey = I;
 },
 {
 glyphname = f_l.liga;
