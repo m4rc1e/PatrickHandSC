@@ -1,5 +1,5 @@
 {
-.appVersion = "1209";
+.appVersion = "1192";
 DisplayStrings = (
 "/f_i.liga"
 );
@@ -144,11 +144,11 @@ value = 0;
 },
 {
 name = hheaAscender;
-value = 1024;
+value = 1042;
 },
 {
 name = typoAscender;
-value = 1024;
+value = 1042;
 },
 {
 name = hheaDescender;
@@ -160,7 +160,7 @@ value = 312;
 },
 {
 name = winAscent;
-value = 1043;
+value = 1042;
 }
 );
 descender = -312;
@@ -51132,16 +51132,6 @@ width = 0;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Patrick Hand SC Regular";
-},
-{
-name = compatibleFullName;
-value = "Patrick Hand SC Regular";
-}
-);
 instanceInterpolations = {
 UUID0 = 1;
 };
