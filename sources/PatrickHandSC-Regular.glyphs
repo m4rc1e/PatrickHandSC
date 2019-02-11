@@ -1,7 +1,7 @@
 {
 .appVersion = "1192";
 DisplayStrings = (
-"/f_i.liga"
+"/Ccaron"
 );
 classes = (
 {
@@ -4161,7 +4161,7 @@ unicode = 0042;
 },
 {
 glyphname = C;
-lastChange = "2016-09-23 08:41:16 +0000";
+lastChange = "2019-02-11 15:59:23 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -4174,12 +4174,12 @@ nodes = (
 "430 645 OFFCURVE",
 "484 628 CURVE",
 "520 600 OFFCURVE",
-"494 556 OFFCURVE",
-"448 556 CURVE",
-"412 565 OFFCURVE",
-"378 570 OFFCURVE",
-"347 570 CURVE SMOOTH",
-"275 570 OFFCURVE",
+"528 270 OFFCURVE",
+"482 270 CURVE",
+"446 279 OFFCURVE",
+"357 316 OFFCURVE",
+"326 316 CURVE SMOOTH",
+"254 316 OFFCURVE",
 "220 549 OFFCURVE",
 "183 506 CURVE SMOOTH",
 "146 463 OFFCURVE",
@@ -4325,7 +4325,7 @@ unicode = 0106;
 },
 {
 glyphname = Ccaron;
-lastChange = "2016-09-23 08:41:16 +0000";
+lastChange = "2019-02-11 15:59:29 +0000";
 layers = (
 {
 layerId = UUID0;
@@ -4377,9 +4377,9 @@ nodes = (
 "378 570 OFFCURVE",
 "347 570 CURVE SMOOTH",
 "275 570 OFFCURVE",
-"220 549 OFFCURVE",
-"183 506 CURVE SMOOTH",
-"146 463 OFFCURVE",
+"439 399 OFFCURVE",
+"402 356 CURVE SMOOTH",
+"365 313 OFFCURVE",
 "127 400 OFFCURVE",
 "127 316 CURVE SMOOTH",
 "127 232 OFFCURVE",
